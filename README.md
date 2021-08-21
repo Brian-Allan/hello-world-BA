@@ -7,8 +7,10 @@ Test repository for test files
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-* this is a test line ...
+* this is a test line2 ... this time we add a snowy scene
 
-![Daybreak Blue LG - Copy](https://user-images.githubusercontent.com/89317042/130333317-021ff0b6-a4b6-4c18-92d7-e12c73f78f5d.png)
+![IMG_1729 - Copy](https://user-images.githubusercontent.com/89317042/130333629-687f1789-22aa-4314-a23c-c59542f51a62.jpg)
+
+
 
 
